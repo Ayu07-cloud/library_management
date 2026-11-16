@@ -1,0 +1,9 @@
+[
+    {
+        "book_id": "1",
+        "book_name": "harry potter",
+        "author": "jk rowling",
+        "category": "fiction",
+        "available_copies": 7
+    }
+]
